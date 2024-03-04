@@ -1,0 +1,117 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+	background-color: aliceblue;
+}
+
+h1{
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+h3{
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+.main{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+.box {
+  height: 450px;
+  width: 250px;
+  background-color: black;
+  border-radius: 10px;
+	align-items: center; 
+	align-content: center;
+}
+
+.mainbox{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center; 
+	align-content: center;
+	
+}
+
+#box1{
+	background-color: #D3E2DB;
+	border: medium; 
+	border-style: solid; 
+	border-color: darkseagreen; 
+	align-items: center;
+	align-content: center;
+}
+
+#box2{
+	background-color: #FFE5C7;
+	border: medium; 
+	border-style: solid; 
+	border-color: orange; 
+	align-items: center;
+	align-content: center;
+}
+
+
+#box3{
+	background-color: #D7E3F4;
+	border: medium; 
+	border-style: solid; 
+	border-color: steelblue; 
+	align-items: center;
+	align-content: center;
+}
+
+#box4{
+	background-color: #FFC7EE;
+	border: medium; 
+	border-style: solid; 
+	border-color: palevioletred; 
+	align-items: center;
+	align-content: center;
+}
+
+#box5{
+	background-color: whitesmoke;
+	border: medium; 
+	border-style: solid; 
+	border-color: dimgrey; 
+	align-items: center;
+	align-content: center;
+}
+
+
+#box6{
+	background-color: #D9C4EA;
+	border: medium; 
+	border-style: solid; 
+	border-color: rebeccapurple; 
+	align-items: center;
+	align-content: center;
+}
+
+#box7{
+	background-color: #f5b2c3;
+	border: medium; 
+	border-style: solid; 
+	border-color: #f0385d; 
+	align-items: center;
+	align-content: center;
+}
+
+
+#box8{
+	background-color: lightgoldenrodyellow;
+	border: medium; 
+	border-style: solid; 
+	border-color: #fcff57; 
+	align-items: center;
+	align-content: center;
+}
+
+
